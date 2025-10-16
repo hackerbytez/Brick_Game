@@ -36,7 +36,7 @@ This project is a great example of **game development fundamentals** in Python â
 ## ðŸ§© Gameplay Preview
 
  
-| ![Start](Screenshot From 2025-10-17 00-02-37.png) |  
+| ![Start](Screenshot%20From%202025-10-17%2000-02-37.png) |  
 
 *(You can add screenshots by placing them inside the `/assets` folder.)*
 

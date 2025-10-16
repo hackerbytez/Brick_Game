@@ -35,9 +35,8 @@ This project is a great example of **game development fundamentals** in Python â
 
 ## ðŸ§© Gameplay Preview
 
-| Start Screen | Playing | Game Over |
-|---------------|----------|------------|
-| ![Start](https://github.com/hackerbytez/Brick_Game/assets/start_screen.png) | ![Play](https://github.com/hackerbytez/Brick_Game/assets/playing.png) | ![GameOver](https://github.com/hackerbytez/Brick_Game/assets/gameover.png) |
+ 
+| ![Start](Screenshot From 2025-10-17 00-02-37.png) |  
 
 *(You can add screenshots by placing them inside the `/assets` folder.)*
 
